@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-
-<!-- Developed by Websquare Indonesia -->
-
 <!--[if lt IE 7 ]> <html class="no-js ie6 ie" lang="en"> <![endif]-->
 <!--[if IE 7 ]>    <html class="no-js ie7 ie" lang="en"> <![endif]-->
 <!--[if IE 8 ]>    <html class="no-js ie8 ie" lang="en"> <![endif]-->
